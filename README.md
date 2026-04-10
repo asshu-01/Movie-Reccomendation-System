@@ -141,7 +141,7 @@ Frontend default URL: http://localhost:8501
 
 ## Author
 
-Ashu
+Ashutosh
 
 ## License
 
